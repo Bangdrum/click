@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Subaru WRX STI",
+        "image": "./assets/WRXSTI.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Toyota Supra",
+        "image": "./assets/supra.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Shelby GT350",
+        "image": "./assets/gt350.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Porsche GT3RS",
+        "image": "./assets/gt3rs.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Honda NSX",
+        "image": "./assets/nsx.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Chevrolet Corvette",
+        "image": "./assets/c8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "BMW M2",
+        "image": "./assets/m2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Audi R8",
+        "image": "./assets/r8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Nissan Skyline R34",
+        "image": "./assets/r34.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Honda S2000",
+        "image": "./assets/s2000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Hennessy Venom",
+        "image": "./assets/venom.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "McLaren Senna",
+        "image": "./assets/senna.jpg",
+        "clicked": false
+    }
+]
